@@ -114,7 +114,7 @@ While online healthcare platforms offer unprecedented convenience, it's imperati
 
 # MIT License
 
-            Copyright (c) 2024 Athrva Deshmukh
+            Copyright (c) 2024 GOURAV KUSHWAHA
 
             Permission is hereby granted, free of charge, to any person obtaining a copy
             of this software and associated documentation files (the "Software"), to deal
